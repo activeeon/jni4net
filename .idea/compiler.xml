@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jni4net.j" />
+        <module name="jni4net.n" />
+        <module name="jni4net.n.w32.v20" />
+        <module name="jni4net.n.w32.v40" />
+        <module name="jni4net.n.w64.v20" />
+        <module name="jni4net.n.w64.v40" />
+        <module name="jni4net.proxygen" />
+        <module name="jni4net.test.j" />
+        <module name="jni4net.test.n" />
+        <module name="jni4net.tested.j" />
+        <module name="jni4net.tested.n" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jni4net" target="1.5" />
+      <module name="jni4net.j" target="1.5" />
+      <module name="jni4net.n" target="1.5" />
+      <module name="jni4net.n.w32.v20" target="1.5" />
+      <module name="jni4net.n.w32.v40" target="1.5" />
+      <module name="jni4net.n.w64.v20" target="1.5" />
+      <module name="jni4net.n.w64.v40" target="1.5" />
+      <module name="jni4net.proxygen" target="1.5" />
+      <module name="jni4net.test.j" target="1.5" />
+      <module name="jni4net.test.n" target="1.5" />
+      <module name="jni4net.tested.j" target="1.5" />
+      <module name="jni4net.tested.n" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
