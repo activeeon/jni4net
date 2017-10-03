@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bd9512f-5149-48e4-a3c5-0950e25b623b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni4net.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni4net.j/jni4net.j.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni4net.n.w32.v20/jni4net.n.w32.v20.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni4net.n.w32.v40/jni4net.n.w32.v40.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni4net.n.w64.v20/jni4net.n.w64.v20.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni4net.n.w64.v40/jni4net.n.w64.v40.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni4net.n/jni4net.n.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni4net.proxygen/jni4net.proxygen.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni4net.test.j/jni4net.test.j.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni4net.test.n/jni4net.test.n.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni4net.tested.j/jni4net.tested.j.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jni4net.tested.n/jni4net.tested.n.iml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni4net.j/pom.xml" afterPath="$PROJECT_DIR$/jni4net.j/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni4net.j/src/main/java/java_/lang/reflect/GenericDeclaration_.java" afterPath="$PROJECT_DIR$/jni4net.j/src/main/java/java_/lang/reflect/GenericDeclaration_.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni4net.j/src/main/java/java_/lang/reflect/TypeVariable_.java" afterPath="$PROJECT_DIR$/jni4net.j/src/main/java/java_/lang/reflect/TypeVariable_.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni4net.j/src/main/java/net/sf/jni4net/CLRLoader.java" afterPath="$PROJECT_DIR$/jni4net.j/src/main/java/net/sf/jni4net/CLRLoader.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni4net.n.w32.v20/pom.xml" afterPath="$PROJECT_DIR$/jni4net.n.w32.v20/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni4net.n.w32.v20/src/jni4net.n.w32.v20.csproj" afterPath="$PROJECT_DIR$/jni4net.n.w32.v20/src/jni4net.n.w32.v20.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni4net.n.w32.v40/pom.xml" afterPath="$PROJECT_DIR$/jni4net.n.w32.v40/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni4net.n.w32.v40/src/jni4net.n.w32.v40.csproj" afterPath="$PROJECT_DIR$/jni4net.n.w32.v40/src/jni4net.n.w32.v40.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni4net.n.w64.v20/pom.xml" afterPath="$PROJECT_DIR$/jni4net.n.w64.v20/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni4net.n.w64.v20/src/jni4net.n.w64.v20.csproj" afterPath="$PROJECT_DIR$/jni4net.n.w64.v20/src/jni4net.n.w64.v20.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni4net.n.w64.v40/pom.xml" afterPath="$PROJECT_DIR$/jni4net.n.w64.v40/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni4net.n.w64.v40/src/jni4net.n.w64.v40.csproj" afterPath="$PROJECT_DIR$/jni4net.n.w64.v40/src/jni4net.n.w64.v40.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jni4net.test.n/pom.xml" afterPath="$PROJECT_DIR$/jni4net.test.n/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/keys/gennetkey.cmd" afterPath="$PROJECT_DIR$/tools/keys/gennetkey.cmd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tools/loadTools.cmd" afterPath="$PROJECT_DIR$/tools/loadTools.cmd" />
+    </list>
+    <ignored path="$PROJECT_DIR$/jni4net.n.w32.v20/target/" />
+    <ignored path="$PROJECT_DIR$/jni4net.n.w64.v20/target/" />
+    <ignored path="$PROJECT_DIR$/jni4net.j/target/" />
+    <ignored path="$PROJECT_DIR$/jni4net.test.j/target/" />
+    <ignored path="$PROJECT_DIR$/jni4net.n.w64.v40/target/" />
+    <ignored path="$PROJECT_DIR$/jni4net.proxygen/target/" />
+    <ignored path="$PROJECT_DIR$/jni4net.tested.n/target/" />
+    <ignored path="$PROJECT_DIR$/jni4net.n/target/" />
+    <ignored path="$PROJECT_DIR$/jni4net.test.n/target/" />
+    <ignored path="$PROJECT_DIR$/jni4net.tested.j/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/jni4net.n.w32.v40/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="25" column="14" lean-forward="false" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jni4net.j/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CLRLoader.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jni4net.j/src/main/java/net/sf/jni4net/CLRLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="45" column="36" lean-forward="true" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bridge.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jni4net.j/src/main/java/net/sf/jni4net/Bridge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jni4net.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jni4net.j/src/main/filtered-resources/META-INF/jni4net.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jni4net.tested.n/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestClr.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jni4net.test.j/src/test/java/net/sf/jni4net/test/TestClr.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="44" column="8" lean-forward="false" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>0.2.6.0</find>
+      <find>0.2.5.0</find>
+      <find>nunit</find>
+      <find>2.5.8</find>
+      <find>env.ProgramFiles</find>
+      <find>nuni</find>
+      <find>System.out</find>
+      <find>findDefaultDll</find>
+      <find>initi</find>
+      <find>initDotNet</find>
+      <find>load</find>
+      <find>getVers</find>
+      <find>getProperty</find>
+      <find>getVe</find>
+      <find>Load</find>
+      <find>init</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>0.2.5.0</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Nebil\Desktop\projects\jni4net</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tools/keys/gennetkey.cmd" />
+        <option value="$PROJECT_DIR$/tools/loadTools.cmd" />
+        <option value="$PROJECT_DIR$/jni4net.j/src/main/java/java_/lang/reflect/TypeVariable_.java" />
+        <option value="$PROJECT_DIR$/jni4net.j/src/main/java/java_/lang/reflect/GenericDeclaration_.java" />
+        <option value="$PROJECT_DIR$/jni4net.n.w32.v40/pom.xml" />
+        <option value="$PROJECT_DIR$/jni4net.n.w64.v20/pom.xml" />
+        <option value="$PROJECT_DIR$/jni4net.n.w64.v40/pom.xml" />
+        <option value="$PROJECT_DIR$/jni4net.n.w64.v40/src/jni4net.n.w64.v40.csproj" />
+        <option value="$PROJECT_DIR$/jni4net.n.w64.v20/src/jni4net.n.w64.v20.csproj" />
+        <option value="$PROJECT_DIR$/jni4net.n.w32.v40/src/jni4net.n.w32.v40.csproj" />
+        <option value="$PROJECT_DIR$/jni4net.n.w32.v20/src/jni4net.n.w32.v20.csproj" />
+        <option value="$PROJECT_DIR$/jni4net.n.w32.v20/pom.xml" />
+        <option value="$PROJECT_DIR$/jni4net.j/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/jni4net.test.n/pom.xml" />
+        <option value="$PROJECT_DIR$/jni4net.j/src/main/java/net/sf/jni4net/Bridge.java" />
+        <option value="$PROJECT_DIR$/jni4net.j/src/main/filtered-resources/META-INF/jni4net.properties" />
+        <option value="$PROJECT_DIR$/jni4net.test.j/src/test/java/net/sf/jni4net/test/TestClr.java" />
+        <option value="$PROJECT_DIR$/jni4net.j/src/main/java/net/sf/jni4net/CLRLoader.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jni4net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jni4net" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jni4net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jni4net" type="462c0819:PsiDirectoryNode" />
+              <item name="jni4net.j" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jni4net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jni4net" type="462c0819:PsiDirectoryNode" />
+              <item name="jni4net.j" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jni4net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jni4net" type="462c0819:PsiDirectoryNode" />
+              <item name="jni4net.j" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jni4net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jni4net" type="462c0819:PsiDirectoryNode" />
+              <item name="jni4net.j" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="filtered-resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jni4net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jni4net" type="462c0819:PsiDirectoryNode" />
+              <item name="jni4net.j" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="filtered-resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jni4net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jni4net" type="462c0819:PsiDirectoryNode" />
+              <item name="jni4net.j" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jni4net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jni4net" type="462c0819:PsiDirectoryNode" />
+              <item name="jni4net.j" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jni4net" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jni4net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jni4net" type="462c0819:PsiDirectoryNode" />
+              <item name="jni4net.tested.n" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jni4net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jni4net" type="462c0819:PsiDirectoryNode" />
+              <item name="jni4net.tested.n" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestClr">
+    <configuration name="TestClr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="net.sf.jni4net.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="jni4net.test.j" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="net.sf.jni4net.test" />
+      <option name="MAIN_CLASS_NAME" value="net.sf.jni4net.test.TestClr" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestClr" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bd9512f-5149-48e4-a3c5-0950e25b623b" name="Default" comment="" />
+      <created>1506936435014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506936435014</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestClr - 2017.10.02 at 16h 45m 08s.xml">
+      <configuration name="TestClr" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClr - 2017.10.02 at 16h 57m 32s.xml">
+      <configuration name="TestClr" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClr - 2017.10.02 at 17h 04m 31s.xml">
+      <configuration name="TestClr" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClr - 2017.10.02 at 17h 06m 22s.xml">
+      <configuration name="TestClr" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClr - 2017.10.02 at 17h 28m 38s.xml">
+      <configuration name="TestClr" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestClr - 2017.10.02 at 17h 42m 20s.xml">
+      <configuration name="TestClr" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23560767" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30877572" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18123667" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="14" lean-forward="false" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jni4net.j/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jni4net.j/src/main/java/net/sf/jni4net/CLRLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/keys/gennetkey.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jni4net.j/src/main/java/java_/lang/reflect/Type_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jni4net.j/src/main/java/java_/lang/reflect/TypeVariable_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jni4net.n.w32.v40/src/jni4net.n.w32.v40.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="843">
+          <caret line="103" column="70" lean-forward="false" selection-start-line="103" selection-start-column="70" selection-end-line="103" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jni4net.n.w32.v20/src/jni4net.n.w32.v20.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="103" column="70" lean-forward="false" selection-start-line="103" selection-start-column="63" selection-end-line="103" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jni4net.n.w64.v20/src/jni4net.n.w64.v20.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="103" column="70" lean-forward="false" selection-start-line="103" selection-start-column="70" selection-end-line="103" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jni4net.n.w64.v40/src/jni4net.n.w64.v40.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="103" column="70" lean-forward="false" selection-start-line="103" selection-start-column="70" selection-end-line="103" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jni4net.j/src/main/java/java_/lang/reflect/GenericDeclaration_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="29" column="9" lean-forward="false" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jni4net.n.w32.v40/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="83" column="80" lean-forward="false" selection-start-line="83" selection-start-column="80" selection-end-line="83" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jni4net.n.w64.v20/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1209">
+          <caret line="84" column="80" lean-forward="false" selection-start-line="84" selection-start-column="80" selection-end-line="84" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jni4net.n.w64.v40/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="83" column="80" lean-forward="false" selection-start-line="83" selection-start-column="80" selection-end-line="83" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/loadTools.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jni4net.test.n/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="92" column="79" lean-forward="false" selection-start-line="92" selection-start-column="79" selection-end-line="92" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jni4net.n.w32.v20/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jni4net.test.j/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jni4net.j/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="14" lean-forward="false" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jni4net.test.j/src/test/java/net/sf/jni4net/test/TestClr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="44" column="8" lean-forward="false" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jni4net.tested.n/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jni4net.j/src/main/filtered-resources/META-INF/jni4net.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jni4net.j/src/main/java/net/sf/jni4net/Bridge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jni4net.j/src/main/java/net/sf/jni4net/CLRLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="45" column="36" lean-forward="true" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
