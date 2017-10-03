@@ -16,6 +16,7 @@ import java.io.File;
 import java.net.URISyntaxException;
 import java.net.URL;
 import java.util.Properties;
+import org.apache.log4j.Logger;
 
 /**
  * @author Pavel Savara (original)
@@ -23,6 +24,8 @@ import java.util.Properties;
 class CLRLoader {
 	private static String version;
     private static String platform;
+
+	private static Logger logger = Logger.getLogger(CLRLoader.class);
 
     public static void 	init(File fileOrDirectory) throws IOException {
 		if (!Bridge.isRegistered) {
@@ -36,13 +39,16 @@ class CLRLoader {
                 System.load(file);
 				final int res = Bridge.initDotNet();
 				if (res != 0) {
-					System.err.println("Can't initialize jni4net Bridge from " + file);
-					throw new net.sf.jni4net.inj.INJException("Can't initialize jni4net Bridge. Code:"+res);
+					//System.err.println("Can't initialize jni4net Bridge from " + file);
+					//throw new net.sf.jni4net.inj.INJException("Can't initialize jni4net Bridge. Code:"+res);
+					logger.error("Can't initialize jni4net Bridge from " + file);
+					logger.error("Can't initialize jni4net Bridge. Code: "+ res);
 				}
 				Bridge.isRegistered = true;
 			} catch (Throwable th) {
-				System.err.println("Can't initialize jni4net Bridge" + th.getMessage());
-				throw new net.sf.jni4net.inj.INJException("Can't initialize jni4net Bridge", th);
+				//System.err.println("Can't initialize jni4net Bridge" + th.getMessage());
+				//throw new net.sf.jni4net.inj.INJException("Can't initialize jni4net Bridge", th);
+				logger.error("Can't initialize jni4net Bridge: " + th.getMessage());
 			}
 		}
 	}
