@@ -39,13 +39,13 @@ class CLRLoader {
 				final int res = Bridge.initDotNet();
 				if (res != 0) {
 					//System.err.println("Can't initialize jni4net Bridge from " + file);
-					logger.error("Can't initialize jni4net Bridge from " + file);
+					logger.warn("Can't initialize jni4net Bridge from " + file);
 					throw new net.sf.jni4net.inj.INJException("Can't initialize jni4net Bridge. Code: "+res);
 				}
 				Bridge.isRegistered = true;
 			} catch (Throwable th) {
 				//System.err.println("Can't initialize jni4net Bridge" + th.getMessage());
-				logger.error("Can't initialize jni4net Bridge: " + th.getMessage());
+				logger.warn("Can't initialize jni4net Bridge: " + th.getMessage());
 				throw new net.sf.jni4net.inj.INJException("Can't initialize jni4net Bridge", th);
 			}
 		}
